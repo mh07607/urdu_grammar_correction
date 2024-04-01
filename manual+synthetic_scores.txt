@@ -1,0 +1,36 @@
+Error_type: R_NOUN_INFL.src
+Average GLEU Score: 0.5976678692717051
+Average F0.5 Score: 0.6330695816078109
+Average Precision: 0.7919305092891245
+Average Recall: 0.7929790330144366
+
+Error_type: R_ADP_INFL.src
+Average GLEU Score: 0.716464148862747
+Average F0.5 Score: 0.7553894628670348
+Average Precision: 0.8584023598195387
+Average Recall: 0.8610726504207843
+
+Error_type: R_VERB_INFL.src
+Average GLEU Score: 0.7518569668004971
+Average F0.5 Score: 0.7336433595080123
+Average Precision: 0.8521087117389464
+Average Recall: 0.850804307885438
+
+Error_type: R_VERB_FORM.src
+Average GLEU Score: 0.7086000660245623
+Average F0.5 Score: 0.6581884434706602
+Average Precision: 0.7935245323858952
+Average Recall: 0.7977759470963763
+
+Error_type: R_ADJ_INFL.src
+Average GLEU Score: 0.7265834477347762
+Average F0.5 Score: 0.7562605796779365
+Average Precision: 0.8661825936817347
+Average Recall: 0.867217852028
+
+Error_type: R_PRON_INFL.src
+Average GLEU Score: 0.7444639473692739
+Average F0.5 Score: 0.7354959346240096
+Average Precision: 0.8505026100104461
+Average Recall: 0.848436315009501
+

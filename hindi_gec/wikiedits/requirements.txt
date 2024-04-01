@@ -1,0 +1,6 @@
+nltk
+tqdm
+lxml
+more_itertools
+python_Levenshtein
+PyYAML

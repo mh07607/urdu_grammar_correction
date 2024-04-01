@@ -1,0 +1,110 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd"
+           version="0.10" xml:lang="hi">
+    <siteinfo>
+        <sitename>विकिपीडिया</sitename>
+        <dbname>hiwiki</dbname>
+        <base>https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0
+        </base>
+        <generator>MediaWiki 1.35.0-wmf.11</generator>
+        <case>first-letter</case>
+    </siteinfo>
+    <page>
+        <title>मुख्य पृष्ठ</title>
+        <ns>0</ns>
+        <id>1</id>
+        <redirect title="मुखपृष्ठ"/>
+        <restrictions>move=sysop:edit=sysop</restrictions>
+        <revision>
+            <id>16</id>
+            <parentid>15</parentid>
+            <timestamp>2003-07-13T19:35:19Z</timestamp>
+            <contributor>
+                <ip>68.65.147.191</ip>
+            </contributor>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve">
+        हिन्दी भाषा में विकिपीडिया - निःशुल्क ज्ञान संग्रह के निर्माण मे यदि आप सहायता करें तो अति उत्म होग ।
+      </text>
+            <sha1>qqqfiv1yjkpzadmueer1kzf9d4ze7yc</sha1>
+        </revision>
+        <revision>
+            <id>17</id>
+            <parentid>16</parentid>
+            <timestamp>2003-07-13T19:36:18Z</timestamp>
+            <contributor>
+                <ip>68.65.147.191</ip>
+            </contributor>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve">
+        हिन्दी भाषा में विकिपीडिया - निःशुल्क ज्ञान संग्रह के निर्माण मे यदि आप सहायता करें तो अति उत्तम होगा ।
+            </text>
+            <sha1>0jvw61t2ghysuw3se4h0ywit7utjseo</sha1>
+        </revision>
+        <revision>
+            <id>18</id>
+            <parentid>17</parentid>
+            <timestamp>2003-07-13T19:36:18Z</timestamp>
+            <contributor>
+                <ip>68.65.147.191</ip>
+            </contributor>
+            <comment>Grammar</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve">
+        हिन्दी भाषा में विकिपीडिया - निःशुल्क ज्ञान संग्रह के निर्माण में यदि आप सहायता करें तो अति उत्तम होगा  ।
+            </text>
+            <sha1>0jvw61t2ghysuw3se4h0ywit7utjseo</sha1>
+        </revision>
+        <revision>
+            <id>19</id>
+            <parentid>18</parentid>
+            <timestamp>2003-07-13T19:36:18Z</timestamp>
+            <contributor>
+                <ip>68.65.147.191</ip>
+            </contributor>
+            <comment>more info</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve">
+        हिन्दी भाषा में विकिपीडिया - निःशुल्क ज्ञान संग्रह के निर्माण में यदि आप सहायता करें तो अति उत्तम होगा  । इसे भारत के सबसे विशाल और अपराजेय दुर्गों में गिना जाता रहा है। इस दुर्ग में कई प्राचीन मन्दिर हैं। इनमें कई मंदिर तीसरी से पाँचवीं सदी गुप्तकाल के हैं।
+
+            </text>
+            <sha1>0jvw61t2ghysuw3se4h0ywit7utjseo</sha1>
+        </revision>
+        <revision>
+            <id>20</id>
+            <parentid>19</parentid>
+            <timestamp>2003-07-13T19:36:18Z</timestamp>
+            <contributor>
+                <ip>68.65.147.191</ip>
+            </contributor>
+            <comment>nochange</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve">
+        हिन्दी भाषा में विकिपीडिया - निःशुल्क ज्ञान संग्रह के निर्माण में यदि आप सहायता करें तो अति उत्तम होगा  । इसे भारत के सबसे विशाल और अपराजेय दुर्गों में गिना जाता रहा है। इस दुर्ग में कई प्राचीन मन्दिर हैं। इनमें कई मंदिर तीसरी से पाँचवीं सदी गुप्तकाल के हैं।
+
+            </text>
+            <sha1>0jvw61t2ghysuw3se4h0ywit7utjseo</sha1>
+        </revision>
+        <revision>
+            <id>21</id>
+            <parentid>20</parentid>
+            <timestamp>2003-07-13T19:36:18Z</timestamp>
+            <contributor>
+                <ip>68.65.147.191</ip>
+            </contributor>
+            <comment>reverting</comment>
+            <model>wikitext</model>
+            <format>text/x-wiki</format>
+            <text xml:space="preserve">
+        हिन्दी भाषा में विकिपीडिया - निःशुल्क ज्ञान संग्रह के निर्माण में यद आप सहायता करें तो अति उत्तम होगा  । इसे भारत के सबसे विशाल और अपराजेय दुर्गों में गिना जाता रहा है। इस दुर्ग में कई प्राचीन मन्दिर हैं। इनमें कई मंदिर तीसरी से पाँचवीं सदी गुप्तकाल के हैं।
+
+            </text>
+            <sha1>0jvw61t2ghysuw3se4h0ywit7utjseo</sha1>
+        </revision>
+    </page>
+</mediawiki>

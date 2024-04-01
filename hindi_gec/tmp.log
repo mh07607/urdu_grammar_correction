@@ -1,0 +1,1147 @@
+Loading resources...
+Processing parallel files...
+ایک فوراً R:OTHER
+دم  U:NOUN
+جاؤ‎ جاؤ R:SPELL
+غصّہ غصّے R:SPELL
+باک باق R:NOUN
+{'Case': 'Acc', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'} {'Case': 'Acc,Dat', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+اس اسے R:PRON:INFL
+نے  U:ADP
+ہے ہیں R:VERB:INFL
+[{
+  "id": 5,
+  "text": "لاؤ",
+  "lemma": "لا",
+  "upos": "VERB",
+  "xpos": "VM",
+  "feats": "Mood=Imp|Polite=Infm|VerbForm=Fin|Voice=Act",
+  "head": 0,
+  "deprel": "root",
+  "start_char": 18,
+  "end_char": 21
+}] [{
+  "id": 5,
+  "text": "لے",
+  "lemma": "لے",
+  "upos": "VERB",
+  "xpos": "VM",
+  "feats": "Voice=Act",
+  "head": 0,
+  "deprel": "root",
+  "start_char": 18,
+  "end_char": 20
+}, {
+  "id": 6,
+  "text": "آؤ",
+  "lemma": "آ",
+  "upos": "VERB",
+  "xpos": "VAUX",
+  "feats": "Mood=Imp|Polite=Infm|VerbForm=Fin|Voice=Act",
+  "head": 5,
+  "deprel": "compound",
+  "start_char": 21,
+  "end_char": 23
+}] MULTI
+لاؤ لے آؤ R:MULTI
+آتی آتا R:SPELL
+فعل فیل R:SPELL
+لڑاکی لڑاکا R:SPELL
+بے بد R:MORPH
+بے لا R:MORPH
+مجھ مجھے R:PRON
+کو  U:ADP
+{'Case': 'Acc', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'} {'Case': 'Acc,Dat', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+اس اسے R:PRON:INFL
+نے  U:ADP
+كے  U:ADP
+لڑاکی لڑکا R:SPELL
+ کو M:ADP
+برس ہو R:OTHER
+ہو ہوگئی R:VERB:FORM
+گیا  U:AUX
+بیٹے بیٹا R:NOUN:INFL
+خریدی خریدا R:VERB:INFL
+نہ  U:PART
+ساتھ پاس R:OTHER
+ساتھ پاس R:OTHER
+ کو M:ADP
+کا پتھر  U:OTHER
+کیے کیا R:VERB:INFL
+کا کام  U:OTHER
+برخلااف خلااف R:SPELL
+چُکی چوکنا R:OTHER
+واپس  U:ADV
+پرے اٹھے R:VERB
+گئے گئی R:VERB:INFL
+آگیا آگئے R:VERB
+گئے گیا R:VERB:INFL
+گیا گئے R:VERB:INFL
+آتی آتے R:SPELL
+ وہ M:PRON
+ وہ M:PRON
+کو سے R:ADP
+کو  U:ADP
+تم تمہیں R:PRON
+نے  U:ADP
+نے  U:ADP
+گئیں گئی R:VERB:INFL
+دن روز R:NOUN
+دن روز R:NOUN
+ہے ہیں R:VERB:INFL
+سیاہی روشنائی R:NOUN
+میں مجھے R:PRON
+نے  U:ADP
+پڑھنا پڑھنی R:VERB:INFL
+الواقای الواقع R:SPELL
+دوائی دوا R:NOUN
+برائے براہ R:SPELL
+نے  U:ADP
+نے  U:ADP
+واپس  U:ADJ
+ہو ہیں R:VERB
+پچھلے پہلے R:SPELL
+مہینہ  U:NOUN
+بٹ بیٹ R:SPELL
+کا کمرا  U:OTHER
+کی کا R:ADP:INFL
+کھائی کھایا R:VERB:INFL
+روز دن R:NOUN
+تھے تھا R:VERB:INFL
+حیرانگی حیرانی R:NOUN
+دونوں  U:OTHER
+سے  U:ADP
+سے  U:ADP
+لے کر  U:OTHER
+امراض مرض R:NOUN:INFL
+ملا ملی R:VERB:INFL
+اپ آپ R:PROPN
+ یہ M:DET
+رکھا رکھی R:VERB:INFL
+کے كے R:ADP
+احکامات احکام R:MORPH
+ڈالو کرو R:VERB
+{'Case': 'Acc,Gen', 'Number': 'Sing', 'Person': '1', 'Poss': 'Yes', 'PronType': 'Prs'} {'Case': 'Acc,Gen', 'Number': 'Sing', 'Person': '1', 'Poss': 'Yes', 'PronType': 'Prs'}
+میری میرا R:PRON:INFL
+کے كے R:ADP
+اباد آباد R:PROPN
+دارالخلافہ دارلحکومت R:NOUN
+لگا جا R:VERB
+ رہا M:AUX
+ہوں ہو R:VERB
+نے کو R:ADP
+اتا لگتا R:VERB
+پر كے R:ADP
+ہو گئے ہوگئے R:ORTH
+اس اِس R:SPELL
+فاقے فاقون R:NOUN
+ایا آئے R:PROPN
+ امجد اور M:OTHER
+کا کی R:ADP:INFL
+گیا گئی R:VERB:INFL
+لکڑی کاٹھ R:NOUN
+ہنڈیا ہندیہ R:PROPN
+[{
+  "id": 3,
+  "text": "کے",
+  "lemma": "کا",
+  "upos": "ADP",
+  "xpos": "PSP",
+  "feats": "AdpType=Post|Case=Acc|Gender=Masc|Number=Sing",
+  "head": 2,
+  "deprel": "case",
+  "start_char": 9,
+  "end_char": 11
+}, {
+  "id": 4,
+  "text": "اوپر",
+  "lemma": "پر",
+  "upos": "ADP",
+  "xpos": "NST",
+  "feats": "AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3",
+  "head": 5,
+  "deprel": "advmod",
+  "start_char": 12,
+  "end_char": 16
+}] [{
+  "id": 3,
+  "text": "پر",
+  "lemma": "پر",
+  "upos": "ADP",
+  "xpos": "PSP",
+  "feats": "AdpType=Post",
+  "head": 2,
+  "deprel": "case",
+  "start_char": 9,
+  "end_char": 11
+}] MULTI
+کے اوپر پر R:MULTI
+ہے تھا R:VERB
+افت آفت R:PROPN
+کی کا R:ADP:INFL
+پر  U:ADP
+کالا پرکالہ R:SPELL
+مجھ مجھے R:PRON
+کو  U:ADP
+پڑھنا پڑھنی R:VERB:INFL
+لگانا جمانے R:VERB
+اتا آتا R:VERB
+بڑھتی بڑھتا R:VERB
+گئی گیا R:VERB:INFL
+جوں جون R:PROPN
+جوں جون R:PROPN
+{'Case': 'Nom', 'Number': 'Sing', 'Person': '2', 'PronType': 'Prs'} {'Case': 'Nom', 'Number': 'Sing', 'Person': '2', 'PronType': 'Prs'}
+تمہاری تمہارے R:PRON:INFL
+ساری سارے R:ADJ
+کرتوتیں کرتوت R:NOUN:INFL
+ائی آیا R:VERB
+اپ آپ R:SPELL
+کا كے R:OTHER
+{'PronType': 'Int'} {'PronType': 'Int'}
+کیسا کیسے R:PRON:INFL
+ہے ہیں R:VERB:INFL
+کرنی کرنا R:VERB:INFL
+و  U:CCONJ
+لاپرواہ لاپروا R:ADJ:INFL
+{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'} {'Case': 'Acc,Dat', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+ہم ہمیں R:MORPH
+کو  U:ADP
+نکالنا دینا R:VERB
+ٹکٹیں ٹکٹ R:NOUN:INFL
+خریدی خریدے R:VERB:INFL
+ہاتھوں ہاتھ R:NOUN:INFL
+لیا لگایا R:VERB
+ کو M:ADP
+آگئیں آگئے R:VERB
+د و R:PROPN
+چینی چانی R:ADJ
+دیتی دیتے R:VERB:INFL
+ہے تک R:OTHER
+ و M:CCONJ
+ووقار قار R:SPELL
+جاتے جاتا R:VERB
+رہتے رہتا R:VERB:INFL
+ہیں ہے R:VERB:INFL
+ہوتے ہوتی R:VERB:INFL
+ہیں ہے R:VERB:INFL
+چلی چلے R:VERB:INFL
+گئی گئے R:VERB:INFL
+بک ہک R:SPELL
+گئے گیا R:VERB:INFL
+کے کا R:ADP:INFL
+واسباب و اسباب R:ORTH
+را ، R:PROPN
+می زمین R:PROPN
+ سب M:PRON
+گئے گئی R:VERB:INFL
+کتا کتابیں R:NOUN
+ہیں  U:AUX
+پونجی پور R:NOUN
+ بھی M:PART
+ہے ہیں R:VERB:INFL
+رکھے رکھی R:VERB:INFL
+ہیں ہے R:VERB:INFL
+کرتی کرتے R:VERB:INFL
+ہے ہیں R:VERB:INFL
+و ، R:SPELL
+بک ہک R:SPELL
+گیا گئے R:VERB
+جارہا جارہی R:VERB:INFL
+ بھا M:PROPN
+بھانجالڑ نجالڑ R:SPELL
+پڑا پڑے R:VERB:INFL
+میٹھے میٹھا R:NOUN
+چینی چلنی R:ADJ
+بڑھا بڑھادیتے R:VERB
+دیتی  U:VERB
+ہے ہیں R:VERB:INFL
+"  U:PUNCT
+گئیں کئی R:SPELL
+گئیں گئے R:VERB:INFL
+۔ - R:SPELL
+گئیں گئی R:VERB:INFL
+آرہا آرہے R:VERB:INFL
+ہے ہیں R:VERB:INFL
+گئیں گئی R:VERB:INFL
+خریدی خریدا R:VERB:INFL
+نجا نجالڑ R:PROPN
+لڑ  U:VERB
+پڑا پڑے R:VERB
+جھکی منجھ R:OTHER
+رہنے کارہنے R:VERB
+جائیں جائے R:VERB:FORM
+گے گا R:VERB:INFL
+[{
+  "id": 6,
+  "text": "ہو",
+  "lemma": "ہو",
+  "upos": "AUX",
+  "xpos": "VAUX",
+  "head": 5,
+  "deprel": "aux",
+  "start_char": 24,
+  "end_char": 26
+}, {
+  "id": 7,
+  "text": "ئیں",
+  "lemma": "جا",
+  "upos": "AUX",
+  "xpos": "VAUX",
+  "feats": "Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part",
+  "head": 5,
+  "deprel": "aux",
+  "start_char": 27,
+  "end_char": 30
+}] [{
+  "id": 6,
+  "text": "ہوئی",
+  "lemma": "ہو",
+  "upos": "AUX",
+  "xpos": "VAUX",
+  "feats": "Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part",
+  "head": 5,
+  "deprel": "aux",
+  "start_char": 24,
+  "end_char": 28
+}] MULTI
+ہو ئیں ہوئی R:MULTI
+ ، M:PUNCT
+ بک M:NOUN
+کیا گیا R:VERB
+ ۔ M:PUNCT
+ولی دلی R:NOUN
+پہچانتے پہچانتا R:VERB:INFL
+ہیں ہے R:VERB:INFL
+جائید ادسب جائیداد سب R:ORTH
+ گیا M:VERB
+کم ۔ R:OTHER
+تک پک R:SPELL
+گئے گئی R:VERB
+دو  U:OTHER
+چنگ ہیں R:OTHER
+گئیں گئی R:VERB:INFL
+کی کا R:ADP:INFL
+پڑھی پڑھا R:VERB:INFL
+ا  U:ADJ
+مال سال R:NOUN
+ہک بک R:SPELL
+گئے گیا R:VERB:INFL
+میٹھے میٹھا R:NOUN
+جاتے جاتا R:VERB:INFL
+رہتے رہتا R:VERB:INFL
+ہیں ہے R:VERB:INFL
+رکھے رکھی R:VERB:INFL
+ہیں ہے R:VERB:INFL
+{'Case': 'Acc', 'Number': 'Plur', 'Person': '1', 'PronType': 'Prs'} {'Case': 'Acc,Dat', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+ہم ہمیں R:MORPH
+نے  U:ADP
+بچے بجے R:NOUN
+کو سے R:ADP
+چھر مکھی R:NOUN
+ماتھے آنکھوں R:NOUN
+سکے  U:AUX
+براہ  U:ADP
+و وہ R:SPELL
+سناتی اڑاتی R:VERB
+صورت عورت R:NOUN
+کی کا R:ADP:INFL
+کی کے R:ADP:INFL
+ٹکٹیں ٹکٹ R:NOUN:INFL
+فرید خریدے R:SPELL
+ہیں  U:AUX
+کا کی R:ADP:INFL
+چھت محبت R:NOUN
+لگے لگی R:VERB:INFL
+آن آج R:NOUN
+ہوا ہوئی R:VERB:INFL
+دیا دی R:VERB:INFL
+کو ا کوا R:ORTH
+گیا گئی R:VERB:INFL
+{'Case': 'Acc,Gen', 'Number': 'Sing', 'Person': '1', 'Poss': 'Yes', 'PronType': 'Prs'} {'Case': 'Acc,Gen', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+میرا میری R:PRON:INFL
+گیا گئی R:VERB:INFL
+کا کی R:ADP:INFL
+ارادہ راہ R:NOUN
+کرنی کرنا R:VERB:INFL
+اچھی اچھا R:ADJ:INFL
+کیا کی R:VERB:INFL
+تھا تھی R:VERB:INFL
+بر برخوردار R:ADJ
+فرداری  U:NOUN
+عرب حرب R:PROPN
+انبیاؤں انبیاء R:PROPN
+اولیاؤں اولیاء R:SPELL
+سرزمین سر زمین R:ORTH
+مربع مربہ R:NOUN
+فتوا فتویٰ R:SPELL
+۔  U:PUNCT
+یے یہ R:SPELL
+راستہ  U:NOUN
+خواص خالص R:SPELL
+کی رات  U:OTHER
+بڑ بڑا R:SPELL
+امر  U:NOUN
+ادار خریدار R:NOUN
+ اور M:CCONJ
+دینے سنتے R:VERB
+نہ نا R:SPELL
+تفتیش تحقیق R:NOUN
+کی کا R:ADP:INFL
+کیسی کیسا R:PRON
+کھتی کھٹا R:OTHER
+کا کی R:ADP:INFL
+پھولا پھولی R:SPELL
+ہوا ہوئی R:VERB:INFL
+و  U:CCONJ
+علیکم عليكم R:PROPN
+ما  U:NOUN
+اور  U:CCONJ
+مضان رمضان R:SPELL
+مہینہ مبینہ R:SPELL
+برائے یر R:OTHER
+ اور M:CCONJ
+کر کے  U:OTHER
+کو ہ کوہ R:ORTH
+پہار  U:PROPN
+دوبڑا وہ R:OTHER
+بے پرانا R:OTHER
+نظر نذر R:NOUN
+کر کرتا R:VERB:FORM
+تا  U:ADP
+بے بلا R:NOUN
+نافہ ناقہ R:SPELL
+الضحی الاضحی R:SPELL
+باک باق R:NOUN
+ کھانا M:NOUN
+کھاناکھلانا کھلانا R:SPELL
+صواب ثواب R:NOUN
+نقطہ حمتہ R:NOUN
+کرنا کر نا R:ORTH
+بھیجا بھیجنا R:VERB:FORM
+ہے  U:AUX
+ما  U:NOUN
+صوم معصوم R:SPELL
+عرض ارض R:NOUN
+سر سرقہ R:NOUN
+کہ  U:PART
+ارض عرض R:NOUN
+سید  U:PROPN
+الگائی صدالگائی R:PROPN
+صدا سدا R:NOUN
+سرقہ سرکہ R:NOUN
+متا متاع R:NOUN
+فارہ فلاح R:NOUN
+باتل باطل R:SPELL
+مت  U:PROPN
+ضائقہ ذائقہ R:SPELL
+مشکور شکر R:SPELL
+ گزار M:VERB
+غریب دولت R:OTHER
+لمبس لمبیس R:SPELL
+ایجاد دریافت R:NOUN
+روز دن R:NOUN
+قصہ غصہ R:NOUN
+سرخ پیلا R:PROPN
+نیند آنکھ R:NOUN
+دار دانا R:ADJ
+خلاقہ حکومت R:OTHER
+بلکل بالکل R:SPELL
+سیاہی روشنائی R:NOUN
+شکریا شکریہ R:SPELL
+نوازی فرمائی R:OTHER
+صادر صادق R:SPELL
+خطرناق خطرناک R:SPELL
+لڑاکی لڑاکا R:SPELL
+سالم سلامت R:NOUN
+چو  U:PROPN
+ہے چوہے R:SPELL
+باکثرت بکثرت R:SPELL
+نکالتا دیتا R:VERB
+[{
+  "id": 2,
+  "text": "کے",
+  "lemma": "کا",
+  "upos": "ADP",
+  "xpos": "PSP",
+  "feats": "AdpType=Post|Case=Acc|Gender=Masc|Number=Sing",
+  "head": 1,
+  "deprel": "case",
+  "start_char": 5,
+  "end_char": 7
+}, {
+  "id": 3,
+  "text": "اوپر",
+  "lemma": "پر",
+  "upos": "ADP",
+  "xpos": "NST",
+  "feats": "AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3",
+  "head": 4,
+  "deprel": "case",
+  "start_char": 8,
+  "end_char": 12
+}] [{
+  "id": 2,
+  "text": "پر",
+  "lemma": "پر",
+  "upos": "ADP",
+  "xpos": "PSP",
+  "feats": "AdpType=Post",
+  "head": 1,
+  "deprel": "case",
+  "start_char": 5,
+  "end_char": 7
+}] MULTI
+کے اوپر پر R:MULTI
+ڈاڑھی داڑھی R:NOUN
+چاول  U:NOUN
+کا تنکا R:SPELL
+دانہ  U:NOUN
+دن روز R:NOUN
+بدن بروز R:OTHER
+کئی سو R:OTHER
+درخت کھجور R:NOUN
+ہوتی ہوتا R:VERB:INFL
+کو کا R:ADP
+ملی ملا R:VERB:INFL
+ ۔ M:PUNCT
+کی کا R:ADP:INFL
+گئی گیا R:VERB:INFL
+ ۔ M:PUNCT
+کی کا R:ADP:INFL
+ ؟ M:PUNCT
+کی کا R:ADP:INFL
+کیسی کیسا R:PRON
+{'Case': 'Nom', 'Gender': 'Fem', 'PronType': 'Prs'} {'Case': 'Nom', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+اپنی اپنا R:PRON
+خریدی خریدا R:VERB:INFL
+ ؟ M:PUNCT
+نے کو R:ADP
+ ۔ M:PUNCT
+نے کو R:ADP
+بھیجی بھیجا R:VERB:INFL
+خریدا خریدی R:VERB:INFL
+؟  U:PUNCT
+اچھا اچھی R:ADJ:INFL
+بناؤ. بناؤ R:SPELL
+ ۔ M:PUNCT
+کی کا R:ADP:INFL
+گئی گیا R:VERB:INFL
+ ۔ M:PUNCT
+{'Case': 'Acc', 'Number': 'Sing', 'Person': '3', 'Polite': 'Form', 'PronType': 'Prs'} {'Case': 'Acc,Dat', 'Number': 'Sing', 'Person': '3', 'Polite': 'Form', 'PronType': 'Prs'}
+انھوں انھیں R:PRON:INFL
+نے  U:ADP
+تالب طالب R:SPELL
+الم علم R:PROPN
+{'Case': 'Nom', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'} {'Case': 'Nom', 'Gender': 'Fem', 'PronType': 'Prs'}
+اپنا اپنی R:PRON
+{'Case': 'Acc', 'PronType': 'Prs'} {'Case': 'Nom', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+اپنی اپنا R:PRON
+{'Case': 'Acc', 'PronType': 'Prs'} {'Case': 'Nom', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+اپنی اپنا R:PRON
+اچھی اچھا R:ADJ:INFL
+نے کو R:ADP
+کا کی R:ADP:INFL
+اُردو اُردُو R:SPELL
+اچھا اچھی R:ADJ:INFL
+کا کی R:ADP:INFL
+پاٹ پھٹ R:VERB
+کا کی R:ADP:INFL
+لمبا لمبی R:ADJ
+ ۔ M:PUNCT
+نذر نظر R:NOUN
+ ۔ M:PUNCT
+{'Case': 'Acc', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'} {'Case': 'Acc,Dat', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+اس اسے R:PRON:INFL
+نے  U:ADP
+سنا سنی R:VERB
+تھا تھی R:VERB:INFL
+سر درد سردرد R:ORTH
+رہی رہا R:VERB:INFL
+کھیلنی کھیلنا R:SPELL
+آتی آتا R:SPELL
+آئی آیا R:VERB:INFL
+الامہ علامہ R:SPELL
+انہیں انھیں R:PRON
+{'Case': 'Acc', 'Number': 'Sing', 'Person': '3', 'Polite': 'Form', 'PronType': 'Prs'} {'Case': 'Acc,Dat', 'Number': 'Sing', 'Person': '3', 'Polite': 'Form', 'PronType': 'Prs'}
+انھوں انھیں R:PRON:INFL
+نے  U:ADP
+ ۔ M:PUNCT
+اُس اُسے R:SPELL
+کو  U:ADP
+بلا بلاؤ R:VERB:FORM
+و۔ ۔ R:SPELL
+در دروازہ R:PROPN
+وزا  U:PROPN
+دے دیں R:VERB:FORM
+آیا آئی R:VERB:INFL
+ہورہا ہورہی R:VERB:INFL
+تھا تھی R:VERB:INFL
+نے کو R:ADP
+قائدہ قاعدہ R:SPELL
+بنائی بنایا R:VERB:INFL
+ ۔ M:PUNCT
+تم تمہیں R:PRON
+کو  U:ADP
+تم تمہیں R:PRON
+نے  U:ADP
+تو تجھے R:OTHER
+نے  U:ADP
+{'Case': 'Acc,Dat', 'Number': 'Sing', 'Person': '3', 'Polite': 'Form', 'PronType': 'Prs'} {'Case': 'Acc,Dat', 'Number': 'Sing', 'Person': '3', 'Polite': 'Form', 'PronType': 'Prs'}
+جنہیں جنھیں R:PRON:INFL
+جاؤ جائیں R:VERB:FORM
+سمر ثمر R:NOUN
+پہچانا پہنچانا R:VERB
+رہی رہا R:VERB:INFL
+کھٹی کھٹا R:ADJ
+تھی تھا R:VERB:INFL
+ ۔ M:PUNCT
+مربع مربہ R:NOUN
+ ۔ M:PUNCT
+نے کو R:ADP
+سیدھا سیدھی R:SPELL
+لئے لیے R:ADP
+لاؤ لائیں R:VERB:FORM
+صواب ثواب R:NOUN
+گئیں گئی R:VERB:INFL
+ کا M:ADP
+قابل بل R:SPELL
+ ۔ M:PUNCT
+قاعد قائد R:NOUN
+ہٹایا ہٹائی R:VERB:INFL
+کی کا R:ADP:INFL
+ملائی ملایا R:VERB:INFL
+گئی گیا R:VERB:INFL
+مت نہ R:OTHER
+نکالو دو R:OTHER
+ہیں ہے R:VERB:INFL
+ہرا ہری R:PROPN
+ہرا ہری R:PROPN
+فعل فیل R:SPELL
+مجھ مجھے R:PRON
+کو  U:ADP
+دیا دی R:VERB:INFL
+تھا تھی R:VERB:INFL
+گئی گیا R:VERB:INFL
+مر مربع R:SPELL
+با  U:AUX
+افواج فوج R:NOUN:INFL
+چمن باغ R:NOUN
+چمن باغ R:NOUN
+میری میر R:PROPN
+نی نیا R:ADJ
+ ۔ M:PUNCT
+پڑا پڑی R:VERB:INFL
+؟  U:PUNCT
+کی کا R:ADP:INFL
+نظر نذر R:NOUN
+اچھی اچھا R:ADJ:INFL
+دیکھی دیکھا R:VERB:INFL
+سوچی سوچا R:VERB:INFL
+کھائی کھایا R:VERB:INFL
+تازی تازہ R:ADJ
+روٹی  U:NOUN
+[{
+  "id": 2,
+  "text": "ڈاکٹرنی",
+  "lemma": "ڈاکٹرنی",
+  "upos": "NOUN",
+  "xpos": "NN",
+  "feats": "Case=Nom|Gender=Fem|Number=Sing|Person=3",
+  "head": 0,
+  "deprel": "root",
+  "start_char": 3,
+  "end_char": 10
+}] [{
+  "id": 2,
+  "text": "لیڈی",
+  "lemma": "لیڈی",
+  "upos": "NOUN",
+  "xpos": "NN",
+  "feats": "Case=Nom|Gender=Masc|Number=Sing|Person=3",
+  "head": 3,
+  "deprel": "nsubj",
+  "start_char": 3,
+  "end_char": 7
+}, {
+  "id": 3,
+  "text": "ڈاکٹر",
+  "lemma": "ڈاکٹر",
+  "upos": "NOUN",
+  "xpos": "NNC",
+  "feats": "Case=Nom|Gender=Masc|Number=Sing|Person=3",
+  "head": 0,
+  "deprel": "root",
+  "start_char": 8,
+  "end_char": 13
+}] MULTI
+ڈاکٹرنی لیڈی ڈاکٹر R:MULTI
+فیصلا فیصل R:SPELL
+باد آباد R:PROPN
+کا کی R:ADP:INFL
+تھا تھی R:VERB:INFL
+ضا ضائع R:SPELL
+یا  U:CCONJ
+بے  U:ADJ
+واقع واقعہ R:NOUN
+ ؟ M:PUNCT
+ایک فوراً R:OTHER
+دم  U:NOUN
+جا‎ؤ جاؤ R:SPELL
+غصّہ غصّے R:SPELL
+باک باق R:NOUN
+{'Case': 'Acc', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'} {'Case': 'Acc,Dat', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+اس اسے R:PRON:INFL
+نے  U:ADP
+ہے ہیں R:VERB:INFL
+[{
+  "id": 5,
+  "text": "لاؤ",
+  "lemma": "لا",
+  "upos": "VERB",
+  "xpos": "VM",
+  "feats": "Mood=Imp|Polite=Infm|VerbForm=Fin|Voice=Act",
+  "head": 0,
+  "deprel": "root",
+  "start_char": 18,
+  "end_char": 21
+}] [{
+  "id": 5,
+  "text": "لے",
+  "lemma": "لے",
+  "upos": "VERB",
+  "xpos": "VM",
+  "feats": "Voice=Act",
+  "head": 0,
+  "deprel": "root",
+  "start_char": 18,
+  "end_char": 20
+}, {
+  "id": 6,
+  "text": "آؤ",
+  "lemma": "آ",
+  "upos": "VERB",
+  "xpos": "VAUX",
+  "feats": "Mood=Imp|Polite=Infm|VerbForm=Fin|Voice=Act",
+  "head": 5,
+  "deprel": "compound",
+  "start_char": 21,
+  "end_char": 23
+}] MULTI
+لاؤ لے آؤ R:MULTI
+آتی آتا R:SPELL
+فعل فیل R:SPELL
+لڑاکی لڑاکا R:SPELL
+اڑانے اڑانےمیں R:SPELL
+تھی تھا R:VERB:INFL
+ چھپے چوری چوری M:OTHER
+رہا رہے R:VERB:INFL
+کا کی R:ADP:INFL
+میں پر R:ADP
+تھی تھا R:VERB:INFL
+پر میں R:ADP
+گیا گئ۔ R:VERB:INFL
+۔  U:PUNCT
+{'Case': 'Acc', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'} {'Case': 'Acc,Dat', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+اس اسے R:PRON:INFL
+کو  U:ADP
+تھا ہے R:VERB
+قرم کرم R:NOUN
+کری کرو R:VERB:FORM
+میں مجھے R:PRON
+نے  U:ADP
+صفید سفید R:SPELL
+اؤ آؤ R:OTHER
+بندھا بندھے R:VERB:INFL
+ہے ہیں R:VERB:INFL
+ہوگی ہوگا R:VERB:INFL
+کیا کی R:VERB:INFL
+کے کا R:ADP:INFL
+گی گا R:VERB:INFL
+کو سے R:ADP
+{'Case': 'Nom', 'Number': 'Sing', 'Person': '2', 'PronType': 'Prs'} {'Case': 'Nom', 'Number': 'Sing', 'Person': '2', 'PronType': 'Prs'}
+تمہاری تمہارا R:PRON:INFL
+کا  U:ADP
+ہکم حکم R:SPELL
+کو کے R:ADP
+کے  U:AUX
+ہوئ ہوئے R:VERB:INFL
+ہوی ہوا R:VERB:INFL
+گی گا R:VERB:INFL
+تھا تھی R:VERB:INFL
+گیٔ گیا R:SPELL
+تھی تھا R:VERB:INFL
+بول بولا R:VERB:FORM
+ھے ہے R:VERB
+کری کرو R:SPELL
+پر میں R:ADP
+{'Case': 'Acc', 'PronType': 'Prs'} {'Case': 'Acc', 'PronType': 'Prs'}
+اپنی اپنے R:PRON:INFL
+لی لے R:VERB:INFL
+نکالی نکالے R:VERB:INFL
+رہی رہا R:VERB:INFL
+کی کا R:ADP:INFL
+سی سے R:PROPN
+رستے راستے R:NOUN
+رہے رہی R:VERB:INFL
+گیا گئے R:VERB:INFL
+کھائ کھایا R:SPELL
+تھی تھا R:VERB
+کی کے R:ADP:INFL
+بھاگتی بھاگتا R:VERB:INFL
+رہا رہے R:VERB:INFL
+بنایی بنایا R:SPELL
+ ہے M:AUX
+بدلی بدلا R:VERB:INFL
+مجھ مجھے R:PRON
+کو  U:ADP
+کی کے R:ADP:INFL
+مجھ مجھے R:PRON
+کو  U:ADP
+کا کی R:ADP:INFL
+ہوئ ہوا R:VERB:INFL
+مارہ مارا R:VERB:FORM
+کی کے R:ADP:INFL
+کی کے R:ADP:INFL
+مکھیاں مکھیوں R:NOUN:INFL
+ نے M:ADP
+دی دیئے R:VERB:INFL
+کی کے R:ADP:INFL
+گئی گیٔں R:VERB:INFL
+لیا لی R:VERB:INFL
+وجا وجہ R:SPELL
+تھی تھا R:VERB:INFL
+کی کا R:ADP:INFL
+تھی تھا R:VERB:INFL
+{'Case': 'Acc', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'} {'Case': 'Acc,Dat', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+اس اسے R:PRON:INFL
+کو  U:ADP
+دیکھی دیکھا R:VERB:INFL
+غصے غصہ R:NOUN
+گئ گیا R:VERB:INFL
+نے کو R:ADP
+کو کی R:ADP
+جاتی جاتا R:VERB:INFL
+کھیلنا کھیلنے R:VERB:INFL
+جاتی جاتے R:VERB:INFL
+کھیلے کھیلتے R:VERB:FORM
+کے کی R:ADP:INFL
+سکتی سکتا R:VERB:INFL
+گی گے R:VERB:INFL
+کا کے R:ADP:INFL
+شوک شوق R:NOUN
+{'Case': 'Nom', 'Gender': 'Fem', 'PronType': 'Prs'} {'Case': 'Nom', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+اپنی اپنا R:PRON
+کی کا R:ADP:INFL
+اندازا اندازہ R:NOUN
+رکھے رکھیں R:VERB:FORM
+ہوتے ہوتی R:VERB:INFL
+کہ کے R:SPELL
+پر میں R:ADP
+{'Case': 'Nom', 'Gender': 'Fem', 'PronType': 'Prs'} {'Case': 'Nom', 'Number': 'Sing', 'Person': '3', 'PronType': 'Prs'}
+اپنی اپنا R:PRON
+لی لیا R:VERB:INFL
+کے کی R:ADP:INFL
+جاتا جاتی R:VERB:INFL
+رہتی رہتا R:VERB:INFL
+ہے ہیں R:VERB:INFL
+آتے آتی R:SPELL
+کا کی R:ADP:INFL
+کا کے R:ADP:INFL
+پے میں R:ADP
+چاہیے چاہئیں R:VERB:INFL
+جاتی جاتا R:VERB:INFL
+سات ساتھ R:SPELL
+ہے ہیں R:VERB:INFL
+جاتا جاتے R:VERB:INFL
+والا والی R:ADJ:INFL
+دبوچےگی دبوچےگا R:SPELL
+لرکے لڑکے R:SPELL
+لرکے لڑکے R:SPELL
+کری کرےگا R:VERB:FORM
+گا  U:AUX
+دی دے R:VERB:INFL
+بچا بچہ R:SPELL
+کی کے R:ADP:INFL
+کو کے R:ADP
+دائرہ دائرے R:NOUN:INFL
+ہیں ہے R:VERB:INFL
+لیتا لیتے R:VERB:INFL
+کھلاری کھلاڑی R:NOUN
+بن ہو R:VERB
+اسول اصول R:SPELL
+دائرہ دائرے R:NOUN:INFL
+دی دیا R:VERB:INFL
+کمرا کمرے R:NOUN
+پردا پردہ R:NOUN
+لیتا لیتے R:VERB:INFL
+ہنستا ہنستی R:NOUN
+پہچانتا پہچانتی R:VERB
+کا کی R:ADP:INFL
+کے کا R:ADP:INFL
+لطف پرلطف R:ADJ
+بچہ بچے R:NOUN:INFL
+بڑا بڑی R:ADJ
+جاتا جاتے R:VERB:INFL
+پر میں R:ADP
+جاتا جاتی R:VERB:INFL
+ٹولیاں ٹولیوں R:NOUN:INFL
+جاتا جاتی R:VERB:INFL
+ہوتی ہوتا R:VERB:INFL
+دوسری دوسرے R:ADJ
+کی کا R:ADP:INFL
+کی کا R:ADP:INFL
+جاتی جاتا R:VERB:INFL
+ اگر بلی چوہے کو پکڑ لے تو مخالف پارٹی کا ایک رکن کم ہو جاتا ہے M:OTHER
+بھیجتا بھیجتی R:VERB:INFL
+چلتی چلتا R:VERB:INFL
+پے میں R:ADP
+تھا ہے R:VERB
+دیکھتا دیکھتے R:VERB:INFL
+کا کو R:ADP
+کرتی کرتا R:VERB:INFL
+پکڑی پکڑا R:VERB:INFL
+جاتی جاتے R:VERB:INFL
+جاتا جاتی R:VERB:INFL
+والی والا R:ADJ:INFL
+جاتی جاتا R:VERB:INFL
+ریچھٍ ریچھ R:SPELL
+کے کہ R:SPELL
+جاۓ جائیں R:OTHER
+جاتی جاتا R:VERB:INFL
+رہا رہے R:VERB:INFL
+پنا پناہ R:SPELL
+میں  U:ADP
+ہیں ہے R:VERB:INFL
+صنا سنا R:SPELL
+کہانیاں کہانی R:NOUN:INFL
+سنائے سنائیں R:VERB:FORM
+سنائے سنائیے R:VERB:FORM
+سنائے سنائیے R:VERB:INFL
+گئ گیا R:VERB
+کی کا R:ADP:INFL
+سا سی R:SPELL
+پتا پتہ R:NOUN
+پڑی پڑے R:VERB
+چلتی چلتا R:VERB:INFL
+تھی تھا R:VERB:INFL
+لی لیا R:VERB:INFL
+کھلایا کھلائی R:VERB:INFL
+ اور M:CCONJ
+ پھر M:ADV
+ ان M:PRON
+ کو M:ADP
+ جیب M:NOUN
+ میں M:ADP
+ کیسے M:PRON
+ رکھ M:VERB
+ لیا M:VERB
+تھی تھا R:VERB:INFL
+سی سے R:PROPN
+کی کا R:ADP:INFL
+سکتا سکتی R:VERB:INFL
+کی کا R:ADP:INFL
+بلاتا بلاتی R:VERB:INFL
+بولا بولی R:VERB:INFL
+دی دیا R:VERB:INFL
+ہے ہیں R:VERB:INFL
+{'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'} {'Case': 'Nom', 'Number': 'Sing', 'Person': '1', 'PronType': 'Prs'}
+میرا میری R:PRON:INFL
+ہوئ ہوا R:VERB:INFL
+سمجھتا سمجھتی R:VERB:INFL
+آتی آتا R:SPELL
+کہانی کہانیوں R:NOUN:INFL
+ہوگی ہوگا R:VERB:INFL
+ہوئ ہوا R:VERB:INFL
+بنانی بنانے R:VERB:INFL
+سمجھ سمجھا R:VERB:FORM
+مین میں R:SPELL
+سنائی سنائیے R:VERB:FORM
+تھا تھی R:VERB:INFL
+رہا رہے R:VERB:INFL
+تھی تھا R:VERB:INFL
+ہوتی ہوتا R:VERB:INFL
+تھی تھا R:VERB:INFL
+دیتی دیتے R:VERB:INFL
+تھی تھا R:VERB:INFL
+گئی گیا R:VERB:INFL
+گیا گئی R:VERB:INFL
+والا والی R:ADJ:INFL
+ہوتا ہوتی R:VERB:INFL
+لکھے لکھا R:VERB:INFL
+گئی گئے R:VERB:INFL
+گیا گئی R:VERB:INFL
+تھا تھی R:VERB:INFL
+کی کے R:ADP:INFL
+؟ ؟‘‘ R:OTHER
+ مگر M:CCONJ
+ ننھی M:ADJ
+ اب M:PRON
+ بہت M:ADV
+ بگڑ M:VERB
+ گئی M:AUX
+ تھی M:AUX
+‘‘ ۔ R:OTHER
+کی کا R:ADP:INFL
+کیو کیجئے R:VERB:FORM
+کردیا کردی R:VERB
+رہتی رہتا R:VERB:INFL
+تھی تھا R:VERB:INFL
+کی کا R:ADP:INFL
+کی کا R:ADP:INFL
+جاتا جاتی R:VERB:INFL
+تھا تھی R:VERB:INFL
+آتی آتے R:SPELL
+جاتی جاتے R:VERB:INFL
+تھی تھے R:VERB:INFL
+کے کی R:ADP:INFL
+دہراتی دہراتے R:VERB:INFL
+رہی رہا R:VERB:INFL
+کی کے R:ADP:INFL
+سی سے R:SPELL
+گئی گیا R:VERB:INFL
+تھا تھے R:VERB:INFL
+کی کے R:ADP:INFL
+کا کی R:ADP:INFL
+گیا گئی R:VERB:INFL
+تھا تھی R:VERB:INFL
+اور  U:CCONJ
+کمزوری اورکمزوری R:NOUN
+دی دیا R:VERB:INFL
+بولی بولا R:VERB
+سی سے R:SPELL
+رہا رہی R:VERB:INFL
+کی کے R:ADP:INFL
+بیٹھی بیٹھا R:VERB:INFL
+پوچھی پوچھا R:VERB:INFL
+کیا کی R:VERB:INFL
+رکھتا رکھتے R:VERB:INFL
+ہم ’’ہم R:SPELL
+کا کی R:ADP:INFL
+غصہ غصے R:NOUN
+کرلی کرلیا R:VERB:INFL
+گیا گئی R:VERB:INFL
+ہے ہوں R:VERB:INFL
+کی کا R:ADP:INFL
+کی کا R:ADP:INFL
+سی سے R:PROPN
+کرتی کرتے R:VERB:INFL
+ہوئی ہوئے R:VERB:INFL
+کی کا R:ADP:INFL
+ہوئی ہوا R:VERB:INFL
+کہا کہی R:VERB:INFL
+رہا رہی R:VERB:INFL
+تھا تھی R:VERB:INFL
+رہتا رہتے R:VERB:INFL
+تھا تھے R:VERB:INFL
+سی سا R:SPELL
+گرتا گرتی R:VERB:INFL
+ہوتا ہوتی R:VERB:INFL
+اچھی اچھے R:ADJ:INFL
+کیا کی R:VERB:INFL
+چاہتا چاہتے R:VERB:INFL
+ہے ہیں R:VERB:INFL
+ہے ہیں R:VERB:INFL
+دی دیا R:VERB:INFL
+چلا چلی R:VERB:INFL
+گیا گئی R:VERB:INFL
+جائے جائیں R:VERB:FORM
+گا گے R:VERB:INFL
+گیا گئی R:VERB:INFL
+گئی گئیں R:VERB:INFL
+کا کی R:ADP:INFL
+سنایا سنائی R:VERB:INFL
+پڑھا پڑھی R:VERB:INFL
+رہے رہا R:VERB:INFL
+ ۔ M:PUNCT
+رہا رہی R:VERB:INFL
+کھا کھایا R:VERB:FORM
+دیکھا دیکھی R:VERB:INFL
+ ۔ M:PUNCT
+پڑھتا پڑھتی R:VERB:INFL
+بلا بلایا R:VERB:INFL
+۔  U:PUNCT
+رہا رہے R:VERB:INFL
+گیا گئی R:VERB:INFL
+رہا رہی R:VERB:INFL
+۔  U:PUNCT
+کی کیا R:VERB:INFL
+کی کیا R:VERB:INFL
+ ۔ M:PUNCT
+چاہئے چاہیے R:VERB:FORM
+۔  U:PUNCT
+گی گا R:VERB:INFL
+کرنا کرنی R:VERB
+ہوتا  U:VERB
+دیکھے دیکھا R:VERB:INFL
+ہو ہے R:VERB
+رہے رہا R:VERB:INFL
+بنا بنایا R:VERB:INFL
+ ۔ M:PUNCT
+سنا سنی R:VERB
+آئے آئیں R:VERB:FORM
+گا گے R:VERB:INFL
+دیکھے دیکھا R:VERB:INFL
+رہا رہے R:VERB:INFL
+۔  U:PUNCT
+پیا پی R:VERB:INFL
+ ؟ M:PUNCT
+دیکھی دیکھا R:VERB:INFL
+دیا دی R:VERB:INFL
+رہی رہا R:VERB:INFL
+کھیلی کھیلا R:VERB:INFL
+رہا رہے R:VERB:INFL
+خریدا خریدی R:VERB:INFL
+پہنچنے پہنچنا R:VERB:INFL
+گاے گایا R:SPELL
+کھائ کھایا R:SPELL
+پڑھی پڑھا R:VERB:INFL
+سمجھا سمجھی R:VERB:INFL
+رہا رہے R:VERB:INFL
+کھانی کھانا R:VERB:INFL
+لکھی لکھا R:VERB:INFL
+سنایا سنائی R:VERB:INFL
+رہا رہی R:VERB:INFL
+کی کیا R:VERB:INFL
+دیا دی R:VERB:INFL
+کرتا کرتے R:VERB:INFL
+جانے جانا R:VERB:INFL
+دیا دی R:VERB:INFL
+کی کے R:ADP:INFL
+[{
+  "id": 7,
+  "text": "کر",
+  "lemma": "کر",
+  "upos": "VERB",
+  "xpos": "VM",
+  "feats": "Voice=Act",
+  "head": 0,
+  "deprel": "root",
+  "start_char": 25,
+  "end_char": 27
+}, {
+  "id": 8,
+  "text": "دیا",
+  "lemma": "دے",
+  "upos": "VERB",
+  "xpos": "VAUX",
+  "feats": "Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part",
+  "head": 7,
+  "deprel": "compound",
+  "start_char": 28,
+  "end_char": 31
+}] [{
+  "id": 7,
+  "text": "کیا",
+  "lemma": "کر",
+  "upos": "VERB",
+  "xpos": "VM",
+  "feats": "Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act",
+  "head": 0,
+  "deprel": "root",
+  "start_char": 25,
+  "end_char": 28
+}] MULTI
+کر دیا کیا R:MULTI
+بنا بنایا R:VERB:INFL
+پڑھتا پڑھتی R:VERB:INFL
+آے آئے R:VERB
